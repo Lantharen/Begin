@@ -1,0 +1,14 @@
+.btn-outline-primary {
+    font-size: smaller;
+    border: none;
+    color: black;
+}   
+body {
+    background-color: #f6f6f6;
+}
+.btn-group-vertical > .btn, .btn-group-vertical > .btn-group {
+    width: auto;
+}
+.bi-caret-right-fill {
+    font-size: 10px;
+}
